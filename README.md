@@ -1,2 +1,4 @@
 # hello_world
-Start
+
+hi! 
+its me 726. starting to learn ..how to code
